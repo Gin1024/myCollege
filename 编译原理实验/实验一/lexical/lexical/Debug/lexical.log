@@ -1,0 +1,8 @@
+﻿  lexical.cpp
+c:\users\lenovo\desktop\西家家\lexical\lexical\lexical.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\lenovo\desktop\西家家\lexical\lexical\lexical.cpp(145): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“int”
+c:\users\lenovo\desktop\西家家\lexical\lexical\lexical.cpp(145): warning C4474: fprintf: 格式字符串中传递的参数太多
+  c:\users\lenovo\desktop\西家家\lexical\lexical\lexical.cpp(145): note: 占位符和其参数预计 3 可变参数，但提供的却是 4 参数
+c:\users\lenovo\desktop\西家家\lexical\lexical\lexical.cpp(240): warning C4101: “input”: 未引用的局部变量
+  lexical.vcxproj -> C:\Users\lenovo\Desktop\西家家\lexical\Debug\lexical.exe
+  lexical.vcxproj -> C:\Users\lenovo\Desktop\西家家\lexical\Debug\lexical.pdb (Partial PDB)

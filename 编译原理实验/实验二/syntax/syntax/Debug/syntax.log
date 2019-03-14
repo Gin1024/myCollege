@@ -1,0 +1,20 @@
+﻿  syntax.cpp
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(172): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(181): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(234): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(318): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(362): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(367): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\西家家\syntax\syntax\syntax.cpp(370): warning C4018: “<”: 有符号/无符号不匹配
+  syntax.vcxproj -> C:\Users\lenovo\Desktop\西家家\syntax\Debug\syntax.exe
+  syntax.vcxproj -> C:\Users\lenovo\Desktop\西家家\syntax\Debug\syntax.pdb (Partial PDB)
